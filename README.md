@@ -1,4 +1,8 @@
+## React Redux Guide Code
+[Redux: шаг за шагом](https://medium.com/devschacht/redux-step-by-step-e6c42a9b00cd)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
